@@ -237,7 +237,8 @@
     \ you can be fast and smart. I\u2019ll tell you how to get started (audit the\
     \ existing content, create a list of requirements for documentation tools, ruthlessly\
     \ prioritize a huge list of tasks) and how to keep going (build relationships\
-    \ with coworkers in customer-facing roles to learn what your customers really\
+    \ with coworkers in customer-facing roles to learn what your 
+    really\
     \ need from docs, take a moment to pat yourself on the back every now and then).\
     \ I\u2019ll also admit to mistakes I\u2019ve made, and how I\u2019ve learned to\
     \ avoid them (like trying to do everything myself, or thinking that time spent\
@@ -255,7 +256,7 @@
     name: Neal Kaplan
     slug: neal-kaplan
     twitter: NealKaplan
-    website: customersandcontent.com
+    website: https://customersandcontent.com
   title: Where do I start? The art and practice of documentation triage
   youtubeId: 2EzIe-3LBwQ
   year: 2018
